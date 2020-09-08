@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.4] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6548fedcfd82bcf096800c72c68b5583/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/16dab6ebedfdd5e82ce6978400817cde/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9bbada743f634f882acafb8eaa1086bf/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/20430aaca9b008f39eab792d05435449/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/410b368f85d60d55c0157064afa25fd1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/974e5f7c7a66228961ece81a358e5dec/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/efcea95b8fce338a4f7aab65211b4624/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/75f2acd2c4b2fe28e108532452be8aba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/7ba0f1314eb62771e062e432e947b4bd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6214cc43cefda8773602d20e8ceb8092/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/c2b4deea273cd6c7e9dc6cf0967993ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9d0ef179f0b0453c5ab85b8b7863404c/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/a8630c67f2a217f7e35ed80bf8c3853a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6afee83011615f3c8d1ae1609f28d06e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e2fcabfad46c2ded216f338793727b59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/15af9584613ccef9be2fb2e69d984dbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/0e8701fb2f062a501c551e06191c96dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/bdcbb554cbb8c84049c9e08a8029cbb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/7d2028b739b0ea30b756a1a1b25a3965/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/928f00b6fbd07d914f6cecc44fd5e12f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/3bf02e9aab2f4b840dba62f3653abe42/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/1f07dc92219400a78737e82d6f58b898/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/71ba745d184ab4f6920c0ea82c71e459/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/fddbe4b2fc5c7777fa5be72621a681a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/aafefcef96d3c2a5692e8d21604793c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e3485b2478833f630a40bb40bdab5069/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/14bcd230423c456831532cd402d958ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/bc50f0813e44e424abaffcd0b8b1ba62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/25c7caa8fb7740cdaedde0042bec83cd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/c848aa73acc7c17a45ba75e319eb2860/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/fa452a0ce9b567325e8f3e136a3431a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/428fc47a0c8f76ad2b3ae7e34185270c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/3341507949da7f7b3d4ff5bfd5253fc0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.4] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6548fedcfd82bcf096800c72c68b5583/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6548fedcfd82bcf096800c72c68b5583/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9d0ef179f0b0453c5ab85b8b7863404c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9d0ef179f0b0453c5ab85b8b7863404c/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/71ba745d184ab4f6920c0ea82c71e459/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/71ba745d184ab4f6920c0ea82c71e459/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e3485b2478833f630a40bb40bdab5069/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e3485b2478833f630a40bb40bdab5069/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/71ba745d184ab4f6920c0ea82c71e459/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.modulo06reactnative.MainActivity
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6548fedcfd82bcf096800c72c68b5583/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6548fedcfd82bcf096800c72c68b5583/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/16dab6ebedfdd5e82ce6978400817cde/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/16dab6ebedfdd5e82ce6978400817cde/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9bbada743f634f882acafb8eaa1086bf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9bbada743f634f882acafb8eaa1086bf/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/20430aaca9b008f39eab792d05435449/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/20430aaca9b008f39eab792d05435449/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/410b368f85d60d55c0157064afa25fd1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/410b368f85d60d55c0157064afa25fd1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/974e5f7c7a66228961ece81a358e5dec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/974e5f7c7a66228961ece81a358e5dec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/efcea95b8fce338a4f7aab65211b4624/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/efcea95b8fce338a4f7aab65211b4624/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/75f2acd2c4b2fe28e108532452be8aba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/75f2acd2c4b2fe28e108532452be8aba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/7ba0f1314eb62771e062e432e947b4bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/7ba0f1314eb62771e062e432e947b4bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6214cc43cefda8773602d20e8ceb8092/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6214cc43cefda8773602d20e8ceb8092/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/c2b4deea273cd6c7e9dc6cf0967993ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/c2b4deea273cd6c7e9dc6cf0967993ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9d0ef179f0b0453c5ab85b8b7863404c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/9d0ef179f0b0453c5ab85b8b7863404c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/a8630c67f2a217f7e35ed80bf8c3853a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/a8630c67f2a217f7e35ed80bf8c3853a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6afee83011615f3c8d1ae1609f28d06e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/6afee83011615f3c8d1ae1609f28d06e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e2fcabfad46c2ded216f338793727b59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e2fcabfad46c2ded216f338793727b59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/15af9584613ccef9be2fb2e69d984dbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/15af9584613ccef9be2fb2e69d984dbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/0e8701fb2f062a501c551e06191c96dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/0e8701fb2f062a501c551e06191c96dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/bdcbb554cbb8c84049c9e08a8029cbb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/bdcbb554cbb8c84049c9e08a8029cbb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/7d2028b739b0ea30b756a1a1b25a3965/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/7d2028b739b0ea30b756a1a1b25a3965/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/928f00b6fbd07d914f6cecc44fd5e12f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/928f00b6fbd07d914f6cecc44fd5e12f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/3bf02e9aab2f4b840dba62f3653abe42/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/3bf02e9aab2f4b840dba62f3653abe42/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/1f07dc92219400a78737e82d6f58b898/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/1f07dc92219400a78737e82d6f58b898/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/71ba745d184ab4f6920c0ea82c71e459/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/71ba745d184ab4f6920c0ea82c71e459/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/fddbe4b2fc5c7777fa5be72621a681a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/fddbe4b2fc5c7777fa5be72621a681a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/aafefcef96d3c2a5692e8d21604793c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/aafefcef96d3c2a5692e8d21604793c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e3485b2478833f630a40bb40bdab5069/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/e3485b2478833f630a40bb40bdab5069/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/14bcd230423c456831532cd402d958ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/14bcd230423c456831532cd402d958ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/bc50f0813e44e424abaffcd0b8b1ba62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/bc50f0813e44e424abaffcd0b8b1ba62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/25c7caa8fb7740cdaedde0042bec83cd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/25c7caa8fb7740cdaedde0042bec83cd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/c848aa73acc7c17a45ba75e319eb2860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/c848aa73acc7c17a45ba75e319eb2860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/fa452a0ce9b567325e8f3e136a3431a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/fa452a0ce9b567325e8f3e136a3431a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/428fc47a0c8f76ad2b3ae7e34185270c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/428fc47a0c8f76ad2b3ae7e34185270c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/3341507949da7f7b3d4ff5bfd5253fc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ericoalmeida/.gradle/caches/transforms-2/files-2.1/3341507949da7f7b3d4ff5bfd5253fc0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /home/ericoalmeida/Projetos/BootcampGoStack8.0/fase03DominandoReact/desafio06ReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

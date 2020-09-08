@@ -1,0 +1,37 @@
+html, body, #app{
+  height: 100%;
+  margin: 0;
+}
+
+#app{
+  display: flex;
+  /* flex-wrap: wrap;  Aciona a quebra de linha
+     align-content: flex-start;  alinha o conteúdo quando tem quebra de linha*/
+  
+  
+}
+
+.box{
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  /* flex-grow: 1;   Com essa prop ativa (1) o componente aumenta conforme o tamanho de seu container tela aumenta*/
+  /* flex-shrink: 0;  Com essa prop ativa (1) o componente diminui conforme o tamanho de seu container diminui*/
+  /* flex: 1, 0;  é a juncao das propriedades flex-grow e flex-shrink */
+}
+
+
+.red{
+  background: #f00;
+  order: 3; /*Ordena os objetos na tela*/
+}
+
+.green{
+  background: #0f0;
+  order: 2;
+}
+
+.blue{
+  background: #00f;
+  order: 0;
+}

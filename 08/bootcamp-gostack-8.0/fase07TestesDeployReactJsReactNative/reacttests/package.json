@@ -1,0 +1,63 @@
+{
+  "name": "reacttests",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.0",
+    "immer": "^5.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "react-scripts": "3.3.0",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.1.3",
+    "styled-components": "^4.4.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "testCov": "react-app-rewired test --coverage --watchAll=false",
+    "eject": "react-scripts eject"
+  },
+  "jest": {
+    "testMatch": [
+      "**/__tests__/**/*.test.js"
+    ],
+    "setupFilesAfterEnv": [
+      "@testing-library/react/cleanup-after-each",
+      "@testing-library/jest-dom/extend-expect",
+      "jest-localstorage-mock"
+    ],
+    "moduleNameMapper": {
+      "^~/(.*)": "<rootDir>/src/$1"
+    },
+    "roots": [
+      "<rootDir>/src/",
+      "<rootDir>/__tests__/"
+    ],
+    "collectCoverageFrom":["!src/index.js", "!src/App.js"],
+    "coverageDirectory": "__tests__/coverage/react"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.24",
+    "axios-mock-adapter": "^1.17.0",
+    "jest-localstorage-mock": "^2.4.0",
+    "react-app-rewired": "^2.1.5"
+  }
+}
